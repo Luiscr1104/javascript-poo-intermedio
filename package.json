@@ -1,0 +1,11 @@
+{
+  "name": "curso-intermedio-poo",
+  "version": "1.0.0",
+  "description": "Curso de platzi para entender POO con JavaScript Intermedio",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis R",
+  "license": "MIT"
+}
