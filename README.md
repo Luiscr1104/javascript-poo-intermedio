@@ -6,3 +6,5 @@ Profundizar en JavaScript (Curso Intermedio POO)
 ********Required Param.
 
 ********RORO y Factor pattern
+
+********Getter y Setter
