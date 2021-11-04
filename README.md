@@ -8,3 +8,5 @@ Profundizar en JavaScript (Curso Intermedio POO)
 ********RORO y Factor pattern
 
 ********Getter y Setter
+
+********Metodos Static
